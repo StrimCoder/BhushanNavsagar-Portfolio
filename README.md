@@ -58,8 +58,6 @@ npm install
 npm start
 ```
 
-🌐 Open [http://localhost:3000](http://localhost:3000)
-
 ## 📦 Dependencies  
 
 - React.js
@@ -76,19 +74,18 @@ npm start
 - Integrated GitHub stats and contribution graph  
 - CMS integration for projects and testimonials  
 - PWA support with offline capabilities  
-- Voice-enabled navigation  
+- Voice-enabled navigation
+   
+## 🙌 Contribution  
 
-## 📸 Demo  
+Contributions, ideas, and suggestions are always welcome!  
+Feel free to check the [issues page](https://github.com/StrimCoder/BhushaNnavsagar-Porttfolio/issues) or submit a pull request.
 
-> 🎥 **[Live Demo](#)** — _add your link here_
+## 📃 License  
 
-## 📜 License  
+This project is **open-source** and available under the [MIT License](LICENSE).
 
-This project is open-source and available under the MIT License.
+## 👑 Created By  
 
-## ✨ Connect with Me  
-
-- 📧 yourmail@gmail.com
-- 🌐 yourwebsite.com
-- 💼 LinkedIn
-- 📱 Twitter
+**Bhushan Navsagar** ✨  
+[GitHub](https://github.com/StrimCoder) | [LinkedIn](https://www.linkedin.com/in/bhushan-navsagar-2b683a293/)
